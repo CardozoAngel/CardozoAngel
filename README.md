@@ -1,6 +1,8 @@
 <h1>About Me😁</h1>
 - 👋 Hi, I’m Cardozo Angel. 🎉 I'm 17 year old.<br>
 - 🤝 I like teamwork. 🎀 I like to make friends with them.<br>
+-🧖 I am calm when working in a team.<br>
+-😉 I am a friendly, positive and creative person when doing work.<br>
 - 👀 I’m interested in programming.<br>
 - 🖥️ I’m currently learning programming language.<br>
 <h1>🖱️ Programming language I use </h1>⌨️ C++(2021).<br>⌨️ HTML(2022).<br>⌨️ CSS(2022).<br>⌨️ MySQL(2022).<br>⌨️ PHP(2023).<br>⌨️ Java(2023).<br>
